@@ -4,11 +4,10 @@ It's nice seeing you on my Github profile, here you can check all the projects a
 
 But first let me tell you a little bit about me
 
-- 🎂 I'm **20** years old.
+- 🎂 I'm **21** years old.
 - 🌍 I'm from **Córdoba, Argentina**.
 - 📖 I'm currently pursuing a **Software Engineering** degree at [Universidad Siglo 21](https://21.edu.ar/).
 - 🔭 I'm currently working on mantaining and updating [Maktub's site](https://maktubhome.com).
-- 🤔 Fun fact: I attended Fifa World Cup 2022 in Qatar (which luckly we won!).
 
 
 My **tech stack** consists of:
