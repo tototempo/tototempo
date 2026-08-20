@@ -4,10 +4,10 @@ It's nice seeing you on my Github profile, here you can check all the projects a
 
 But first let me tell you a little bit about me
 
-- 🎂 I'm **21** years old.
+- 🎂 I'm **22** years old.
 - 🌍 I'm from **Córdoba, Argentina**.
-- 📖 I'm currently pursuing a **Software Engineering** degree at [Universidad Siglo 21](https://21.edu.ar/).
-- 🔭 I'm currently working on mantaining and updating [Maktub's site](https://maktubhome.com).
+- 📖 I'm currently pursuing a **Software Engineering** degree at [Universidad Siglo 21](https://21.edu.ar/) and I'll graduate by EOY.
+- 🔭 I'm currently working as a Software Engineer on (Suplai Sales)[https://www.suplaisales.com/}.
 
 
 My **tech stack** consists of:
