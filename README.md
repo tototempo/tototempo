@@ -1,4 +1,4 @@
-### Hello there!
+### [Hello there!](https://www.youtube.com/watch?v=Y7MI_vvRYvk)
 
 It's nice seeing you on my Github profile, here you can check all the projects and work I've been doing lately!
 
@@ -7,7 +7,7 @@ But first let me tell you a little bit about me
 - 🎂 I'm **22** years old.
 - 🌍 I'm from **Córdoba, Argentina**.
 - 📖 I'm currently pursuing a **Software Engineering** degree at [Universidad Siglo 21](https://21.edu.ar/) and I'll graduate by EOY.
-- 🔭 I'm currently working as a Software Engineer on (Suplai Sales)[https://www.suplaisales.com/}.
+- 🔭 I'm currently working as a Full-stack Developer on [Suplai Sales](https://www.suplaisales.com/).
 
 
 My **tech stack** consists of:
