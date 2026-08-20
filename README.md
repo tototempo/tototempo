@@ -1,26 +1,50 @@
-### [Hello there!](https://www.youtube.com/watch?v=Y7MI_vvRYvk)
+### [Hello there!](https://www.youtube.com/watch?v=Y7MI_vvRYvk) 👋
 
 It's nice seeing you on my Github profile, here you can check all the projects and work I've been doing lately!
 
-But first let me tell you a little bit about me
+But first let me tell you a little bit about me:
 
 - 🎂 I'm **22** years old.
-- 🌍 I'm from **Córdoba, Argentina**.
-- 📖 I'm currently pursuing a **Software Engineering** degree at [Universidad Siglo 21](https://21.edu.ar/) and I'll graduate by EOY.
-- 🔭 I'm currently working as a Full-stack Developer on [Suplai Sales](https://www.suplaisales.com/).
+- 📍 Based in **Córdoba, Argentina**
+- 📖 Pursuing a **Software Engineering** degree at [Universidad Siglo 21](https://21.edu.ar/) (Graduating EOY)
+- 👨‍💻 Currently working as a Full-stack Developer at [Suplai Sales](https://www.suplaisales.com/)
 
+---
 
-My **tech stack** consists of:
+### 🛠️ Tech Stack & Tools
 
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/vue.js%20-%23323330.svg?&style=for-the-badge&logo=vue.js&logoColor=white&color=%234FC08D"/> <img src="https://img.shields.io/badge/mysql%20-%2320232a.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+#### 💻 Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
-And I've also used:
+#### ⚙️ DevOps, Cloud & Observability
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+</p>
 
-<img src="https://img.shields.io/badge/Java%20-%23323330.svg?&style=for-the-badge&logo=intellijidea&logoColor=white&color=%235382A1"> <img src="https://img.shields.io/badge/Amazon RDS%20-%23323330.svg?&style=for-the-badge&logo=amazonrds&logoColor=white&color=%23527FFF"> <img src="https://img.shields.io/badge/Amazon EC2%20-%23323330.svg?&style=for-the-badge&logo=amazonec2&logoColor=white&color=%23FF9900"> <img src="https://img.shields.io/badge/Amazon SES%20-%23323330.svg?&style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white&color=%23DD344C"> <img src="https://img.shields.io/badge/Linux%20-%23323330.svg?&style=for-the-badge&logo=linux&logoColor=black&color=%23FCC624"> <img src="https://img.shields.io/badge/vite%20-%23323330.svg?&style=for-the-badge&logo=vite&logoColor=%23FBC02D&color=%23646CFF"/> <img src="https://img.shields.io/badge/Apache%20-%23323330.svg?&style=for-the-badge&logo=apache&logoColor=white&color=%23D22128"> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+#### 🔄 Automation & Other Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-if you want to reach me: 
+---
 
-<a href="https://www.linkedin.com/in/tototempo/">
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-<a/>
+### 📬 Connect with me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/tototempo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
